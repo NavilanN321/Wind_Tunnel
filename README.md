@@ -4,6 +4,8 @@ Edit 1: This is the first version of my wind tunnel. Clear parts open up and the
 
 Current Bill Of materials: 
 Nothing So far since most of the build requires a 3d printer. My first buy with in the is an ipad meaning I dont want to currently get a 3d printer in the shop. 
-Maybe a raspberry pi
+- a raspberry pi if you can fund it
+- 3d printer if you can fund it
+- soldering iron if you can fund it
 
 <img width="1416" height="1004" alt="image" src="https://github.com/user-attachments/assets/9da72ef8-9e5b-407c-be7b-96abc3cc30b2" />
